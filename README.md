@@ -5,7 +5,7 @@
 
 ### 方案分享
 
-本赛题是脱敏的文本匹配题，同2019年的高校赛。
+本赛题是脱敏的文本匹配题，同2019年的[高校赛](https://github.com/chizhu/BDC2019)。
 常用的思路如基于特征的feature+LGB或者基于深度语义模型的Esim和Bert等。本文采用后者。
 
 >解题思路：pretrain+fine-tuning
